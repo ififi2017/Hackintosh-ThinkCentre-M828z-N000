@@ -1,10 +1,16 @@
 # 本机配置
 型号：Lenovo ThinkCentre M828z-N000
+
 CPU：i5-9500
+
 显卡：Intel UHD Graphics 630
+
 RAM：DDR4 8GB
+
 声卡：ALC235
+
 有线网卡：Intel Ethernet Connection I219-V
+
 硬盘：SAMSUNG NVME M.2 SSD PM981
 
 # 说明
