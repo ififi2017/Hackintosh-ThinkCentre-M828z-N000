@@ -15,6 +15,8 @@ RAM：DDR4 8GB
 
 # 说明
 
+使用OpenCore 0.5.8 支持macOS 10.15.4。
+
 ## 安装方法
 > 因为此款机型硬件特殊性，安装macOS时使用Kexts和SSDT与正常使用下均有不同。
 
